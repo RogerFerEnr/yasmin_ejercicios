@@ -1,0 +1,2 @@
+HAS_NEXT = "HAS_NEXT"
+END = "END"
